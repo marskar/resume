@@ -1,4 +1,4 @@
-### Martin Skarzynski's resume
+### Martin Skarzynski's résumé
 
 To view the resume, please go to https://marskar.github.io/resume/.
 
